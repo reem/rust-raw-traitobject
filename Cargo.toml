@@ -1,0 +1,11 @@
+[package]
+
+name = "raw-traitobject"
+version = "0.0.1"
+authors = ["Jonathan Reem <jonathan.reem@gmail.com>"]
+
+[lib]
+
+name = "raw-traitobject"
+path = "src/lib.rs"
+
